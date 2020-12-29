@@ -1,4 +1,4 @@
-# Data-Visualization-Explorando-com-Seaborn
+# Data Visualization Explorando com Seaborn
 
 # Descrição
   Analisando uma amostra de dados de pessoas que deram gorjetas. 
